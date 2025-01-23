@@ -1,3 +1,8 @@
+<img src="images/stm32.jpg" alt="Alt text" width="400" />
+<img src="images/stm32_01.jpg" alt="Alt text" width="400" />
+<img src="images/diagram.jpg" alt="Alt text" width="400" />
+<img src="images/example.jpg" alt="Alt text" width="400" />
+
 # Distance Measurement Using HCSR04 and LCD 2004 I2C with NUCLEO-F411RE
 
 This project demonstrates how to measure distance using the HCSR04 ultrasonic sensor and display it on an LCD 2004 using the I2C protocol. The project is implemented on the **NUCLEO-F411RE** microcontroller.
